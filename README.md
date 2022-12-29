@@ -1,1 +1,3 @@
 # Disease-Detection-using-AI
+
+A disease prediction system is a helpful tool in uplifting the healthcare system of the country. A disease prediction system not only helps in “predicting a disease” but also in curating medical data, enhance research activities and control fraudulent activities. The present research offers a machine learning equipped web-based prediction system along with a recommendation system for a wide range of users. The ensemble approach is used as machine learning model that uses a weighted voting mechanism to prioritize better-performing algorithms on a given set of symptoms.
